@@ -1,0 +1,8 @@
+flake8
+pylint
+mypy
+coverage
+vulture
+black
+radon
+pyflakes
